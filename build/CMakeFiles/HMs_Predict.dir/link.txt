@@ -1,0 +1,3 @@
+"D:\Visual Studio Build Tools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\HMs_Predict.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\HMs_Predict.dir/objects.a @CMakeFiles\HMs_Predict.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\HMs_Predict.dir/objects.a -Wl,--no-whole-archive -o HMs_Predict.exe -Wl,--out-implib,libHMs_Predict.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HMs_Predict.dir\linkLibs.rsp

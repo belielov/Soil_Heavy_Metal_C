@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/C_code/HMs/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/HMs_Predict.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HMs_Predict.dir\\main.cpp.obj -c D:\\C_code\\HMs\\main.cpp",
+  "file": "D:/C_code/HMs/main.cpp",
+  "output": "CMakeFiles/HMs_Predict.dir/main.cpp.obj"
+}
+]
